@@ -483,19 +483,14 @@ a {
     background-color: rgb(255, 255, 255);
 }
 
-
-.card h1{
-    font-family: "Baloo Da 2";
-    font-size: 1.5rem;
-    color: rgb(248, 248, 248);
-    border: 20px solid black;
-    background-color: #000;
-    border-radius: 1rem;
-    margin-bottom: -15% ;
+.card-cal button{
+    margin-top: 2%;
 }
 
+
 .calculadora{
-	width: 232px;
+	width: 240px;
+    height: auto;
     padding: 0;
     margin-top: 20%;
 }
@@ -644,7 +639,14 @@ p ,.card-info-crono h1 ,h2 , h3,span, p{
 }
 
 /*sobre*/
-
+.card-img-sobre{
+    width: 25vw;
+    height: auto;
+}
+.card-img.sobre img{
+    height: 100%;
+    width: 100%;
+}
 .card-sobre-info {
     width: 45vw;
     height: auto;
