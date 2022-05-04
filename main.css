@@ -471,7 +471,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/img/jsicone.png);
+    background-image: url(img/jsicone.png);
     border-radius: 1rem;
 
 }
