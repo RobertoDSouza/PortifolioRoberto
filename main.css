@@ -492,7 +492,7 @@ a {
 	text-align: right;
 	color:#e8e8f3;
 	padding: 4px;
-	box-shadow: inset -1px -1px 20px 1px #eee;
+	box-shadow: inset -1px -1px 20px 1px rgb(37, 221, 0);
 }
 .key li{
     font-family: "Baloo da 2";
